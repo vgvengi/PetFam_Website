@@ -1,0 +1,192 @@
+.image{
+    display: grid;
+    background-image: url('./img/girl-background_image.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-position: center;
+}
+
+.second_div{
+    align-items: center;
+    display: flex;
+    gap: 100px;
+    position: absolute;
+    margin-left: 490px;
+    color: #000;
+font-family: Hind;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+height: fit-content;
+width: fit-content;
+}
+.background{
+    background-image: url("./img/girl-background_image.png");
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-position:center;
+    background-size:contain;
+    // background-size: con
+
+}
+.first_div{
+    margin-left: 60px;
+    height: 40px;
+    // height: fit-content;
+    // width: fit-content;
+}
+.thirddiv{
+    margin-top: 200px;
+    display: grid;
+}
+.hev{
+    margin-top: 100px;
+    height: fit-content;
+    width: fit-content;
+}
+.Bring{
+    width: 600px;
+}
+.second_div :link{
+    position: static;
+    height: fit-content;
+    width: fit-content;
+    // background-color: lightblue;
+}
+.every{
+    display: grid;
+}
+.every .hev{
+    font-size: 50px;
+    margin-left: 60px;
+    width: 350px;
+    font-family: sans-serif;
+}
+.Bring{
+    width: 350px;
+    margin-left: 60px;
+    font-size: large;
+    font-family:sans-serif;
+}
+.available h4{
+    position: absolute;
+    margin-left: 130vh;
+    margin-top: 12vh;
+    font-size: x-large;
+    color: gray;
+    font-family: sans-serif;
+    background-color:#FFFBFB;
+    padding: 10px;
+    width: 400px;
+    text-align: center;
+    border-radius: 10px;
+}
+.lulia {
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    margin-left: 130vh;
+    margin-top: 30vh;
+    border-radius: 7px;
+}
+.lulia img{
+    height:110px;
+    width: 130px;
+    padding: 10px;
+}
+.bitty{
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    margin-left: 170vh;
+    margin-top: 30vh;
+    border-radius: 7px;
+}
+.bitty img{
+    height:110px;
+    width: 130px;
+    padding: 10px;
+}
+.words{
+    position: absolute;
+    margin-left: 137vh;
+    margin-top: 50vh;
+    background-color: lightgray;
+    padding: 6px;
+    border-radius: 5px;
+    font-size: x-small;
+    font-weight: bold;
+}
+.words span{
+    font-weight: normal;
+}
+.words2{
+    position:absolute;
+    margin-left: 175vh;
+    margin-top: 50vh;
+    background-color: lightgray;
+    padding: 6px;
+    border-radius: 5px;
+    font-size: x-small;
+    font-weight: bold;
+}
+.words2 span{
+    font-weight: normal;
+}
+.george{
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    margin-left: 130vh;
+    margin-top: 60vh;
+    border-radius: 7px;
+}
+.george img{
+    height:110px;
+    width: 130px;
+    padding: 10px;
+}
+.words3{
+    position:absolute;
+    margin-left: 135vh;
+    margin-top: 79.5vh;
+    background-color: lightgray;
+    padding: 6px;
+    border-radius: 5px;
+    font-size: x-small;
+    font-weight: bold;
+}
+.words3 span{
+    font-weight: lighter;
+}
+.franklin{
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    margin-left: 170vh;
+    margin-top: 60vh;
+    border-radius: 7px;
+}
+.franklin img{
+    height:110px;
+    width: 130px;
+    padding: 10px;
+}
+.words4{
+    position:absolute;
+    margin-left: 175vh;
+    margin-top: 79.5vh;
+    background-color: lightgray;
+    padding: 6px;
+    border-radius: 5px;
+    font-size: x-small;
+    font-weight: bold;
+}
+.words4 span{
+    font-weight: lighter;
+}
